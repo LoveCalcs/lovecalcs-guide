@@ -1,0 +1,9 @@
+site_name: LoveCalcs Guide
+site_url: https://lovecalcs.readthedocs.io/en/latest/
+site_description: A plain-language guide to the free love calculators and relationship quizzes on LoveCalcs.
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - The calculators: calculators.md
+  - The quizzes: quizzes.md
